@@ -1,2 +1,2 @@
 FILE_NAME = "1s"
-IP_SERVER = "j s"
+IP_SERVER = "jj s"
